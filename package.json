@@ -1,0 +1,36 @@
+{
+    "name": "react.js-extension-pack",
+    "publisher": "Triet",
+    "displayName": "React extension pack",
+    "description": "extension for react developer",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "icon": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Nmtriet2007/React-extension-pack"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "anseki.vscode-color", 
+        "christian-kohler.path-intellisense", 
+        "CoenraadS.bracket-pair-colorizer-2", 
+        "dbaeumer.vscode-eslint", 
+        "donjayamanne.githistory", 
+        "eamodio.gitlens", 
+        "EditorConfig.EditorConfig", 
+        "eg2.vscode-npm-script", 
+        "esbenp.prettier-vscode", 
+        "formulahendry.auto-close-tag", 
+        "formulahendry.auto-rename-tag", 
+        "pnp.polacode", 
+        "streetsidesoftware.code-spell-checker", 
+        "VisualStudioExptTeam.vscodeintellicode",
+        "wix.vscode-import-cost",
+        "dsznajder.es7-react-js-snippets"
+    ]
+}
