@@ -27,6 +27,7 @@
         "formulahendry.auto-close-tag", 
         "formulahendry.auto-rename-tag", 
         "pnp.polacode", 
+        "msjsdiag.debugger-for-chrome",
         "streetsidesoftware.code-spell-checker", 
         "VisualStudioExptTeam.vscodeintellicode",
         "wix.vscode-import-cost",
