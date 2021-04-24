@@ -3,7 +3,7 @@
     "publisher": "Triet",
     "displayName": "React extension pack",
     "description": "extension for react developer",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.47.0"
     },
